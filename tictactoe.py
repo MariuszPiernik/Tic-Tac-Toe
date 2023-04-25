@@ -1,9 +1,8 @@
+import math
+import copy
 """
 Tic Tac Toe Player
 """
-# ?
-import math
-import copy
 
 X = "X"
 O = "O"
